@@ -10,6 +10,12 @@ libvips is required to be installed on your machine in order to install skylab-s
 
 - [Libvips documentation](https://www.libvips.org/install.html)
 
+pyvips v2.2.1 is required. If you encounter trouble installing pyvips == 2.2.1, for the time being you can use a conda environment and install pyvips there.
+
+```bash
+$ conda install --channel conda-forge pyvips
+```
+
 ## Installation
 
 ```bash
